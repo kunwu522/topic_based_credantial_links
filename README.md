@@ -5,3 +5,6 @@
 
 ### Papers for Topic Modeling
 * **Autoencoding Variational Inference For Topic Models.** Akash Srivastava, Charles Sutton. [paper](https://arxiv.org/abs/1703.01488)
+
+### References
+* **Inductive Representation Learning on Large Graphs.** William L. Hamilton, Rex Ying, Jure Leskovec. [paper](https://arxiv.org/abs/1706.02216)

@@ -2,6 +2,7 @@
 
 ### Relation Extraction
 * **Connecting Language and Knowledge with Heterogeneous Representations for Neural Relation Extraction.** Peng Xu, Denilson Barbosa. NAACL 2019. [paper](https://www.aclweb.org/anthology/N19-1323/)
+* **Complex embeddings for simple link prediction.** Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard. ICML 2016. [paper](https://dl.acm.org/doi/10.5555/3045390.3045609)
 
 ### Papers about credential of links
 <!--- * **Detecting Fake Accounts in Online Social Networks at the Time of Registrations.** Dong Yuan, Yuanli Miao, Neil Zhenqiang Gong, Zheng Yang, Qi Li, Dawn Song, Qian Wang, Xiao Liang. ACM SIGSAC 19 -- [paper](http://people.duke.edu/~zg70/papers/Ianus.pdf) --->
